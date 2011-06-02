@@ -12,6 +12,6 @@ setup(
         author_email = "web09@benjamin-schweizer.de",
         url = "http://hg.sickos.org/python-magickwand",
         description = "Python bindings for ImageMagick's MagickWand",
-        version = "0.2sickos",
+        version = "0.3drarok",
         packages = find_packages(exclude='test'),
      )
